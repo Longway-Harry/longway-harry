@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1626,100:2989D2&height=200&section=header&text=Harry%20Nguyen&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Co-Founder%20%26%20CTO%20%40%20Valtiren%20Systems&descAlignY=58&descSize=19&descColor=E5E7EB" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2989D2&center=true&vCenter=true&width=780&lines=Co-Founder+%26+CTO+%40+Valtiren+Systems;International+Software+Development;GIS+x+IoT+x+Cloud+x+Applied+AI" />
 
 <br/>
@@ -40,17 +38,6 @@
 <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=longway-harry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1626&title_color=2989D2&icon_color=2989D2&text_color=E5E7EB" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longway-harry&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1626&title_color=2989D2&text_color=E5E7EB" height="165"/>
-<br/>
-<img src="https://streak-stats.demolab.com?user=longway-harry&theme=tokyonight&hide_border=true&background=0B1626&ring=2989D2&fire=2989D2&currStreakLabel=2989D2"/>
 </div>
 
 <br/>
