@@ -61,4 +61,4 @@ Rather than replacing existing systems with off-the-shelf software, we develop s
 <a href="https://join.slack.com/t/valtiren-systems/shared_invite/zt-401pvx5v9-8Lo~ihaZAvNoIpE5bzYy2Q"><img src="https://img.shields.io/badge/Join-Community%20Slack-0B1626?style=for-the-badge&logo=slack&logoColor=white&labelColor=2989D2"/></a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2989D2,100:0B1626&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2989D2,100:0B1626&height=200&section=footer&text=Thanks%20for%20checking%20out%20my%20profile&fontColor=ffffff&fontSize=28&fontAlignY=55&desc=This%20isn't%20my%20main%20repository%20%E2%80%94%20just%20demos%2C%20experiments%2C%20and%20a%20way%20to%20connect%20with%20people%20into%20similar%20things&descSize=16&descAlignY=75&animation=fadeIn" width="100%"/>
