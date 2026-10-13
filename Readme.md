@@ -16,9 +16,9 @@
 
 ## 👋 About Me
 
-`longway-harry` isn't a random handle — I'd rather build things the long way than the fast way. That's been my approach for 7+ years as a backend-focused engineer, and it's why I co-founded **Valtiren Systems**, where I'm now CTO.
+`longway-harry` isn't a random handle — I'd rather build things the long way than the fast way. That's been my approach for 7+ years as a backend-focused engineer, and it's why I founded **Valtiren Systems**.
 
-- 🔭 Right now: co-running **Valtiren Systems**, an international software development company
+- 🔭 Right now: running **Valtiren Systems**, an international software development company
 - 🌱 What I care about: software that still works six months after launch, not just the demo
 - 🛠️ 7+ years writing backend, APIs, and IoT systems for real businesses
 - 💬 Happy to chat about backend architecture, IoT/device integrations, or the jump from engineer to CTO
